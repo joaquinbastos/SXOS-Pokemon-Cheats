@@ -24,6 +24,7 @@ $ SD Card/sxos/titles/TitleID/Pokemon Lets Go Pikachu.txt or Pokemon Lets Go Eev
 Newest Update should always show up at the top of the list.
 
 ```sh
+$ (11/19/2018) Added New Handheld ONLY! activated version of All Pokémon Shiny Code (Tutorial: Hold the B button and the next Pokémon will spawn shiny. NOTE! It won't convert already non-shiny spawned Pokémon.
 $ (11/19/2018) Added Credit to parts and ideas for the new shiney code.
 $ (11/19/2018) Added New Codes that make all Pokemon Shiny (Thanks to @AnalogMan)
 $ (11/16/2018) Added New Codes to PLGE that would let you play as Pikachu or Eevee (Dialogues and Moves still remains the same as Eevee)
