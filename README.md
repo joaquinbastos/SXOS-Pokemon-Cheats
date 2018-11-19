@@ -9,7 +9,7 @@ Folder hierarchy for your SD Card should be as follows
 
 First off, These cheats require you using the [SX OS](https://sx.xecuter.com/) v2.2.1+ OS to run.
 
-Install these are simple, Simply clone or Download this repo and copy the files that are in the zip to your SD Card's Root.
+Installing these Cheats are pretty simple, You simply clone or Download this repo and copy the files that are in the zip that you downloaded, to your SD Card's Root.
 Your folder hierarchy after adding the files from the zip to your SD Card should show as followed.
 
 ```sh
