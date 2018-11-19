@@ -14,7 +14,8 @@ Folder structure should look like,
 
 *SD Card/sxos/titles/*TitleID*/Pokemon Lets Go Pikachu.txt or Pokemon Lets Go Eevee.txt
 
-
+UPDATE#1 (11/19/2018)
+Added Credit to parts and ideas for the new shiney code
 
 UPDATE# (11/19/2018)
 Added New Codes that make all Pokemon Shiny (Thanks to @AnalogMan)
