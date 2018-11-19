@@ -243,3 +243,9 @@
 
 [999 Catch Combo]
 04100000 5e1cf500 000003e7
+
+[All Pokémon Shiny (Enable)]
+04000000 00739994 14000027
+
+[All Pokémon Shiny (Disable)]
+04000000 00739994 540002e0

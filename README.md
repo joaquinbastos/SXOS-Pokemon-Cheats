@@ -15,6 +15,10 @@ Folder structure should look like,
 *SD Card/sxos/titles/*TitleID*/Pokemon Lets Go Pikachu.txt or Pokemon Lets Go Eevee.txt
 
 
+
+UPDATE# (11/19/2018)
+Added New Codes that make all Pokemon Shiny (Thanks to @AnalogMan)
+
 UPDATE# (11/16/2018)
 Added New Codes to PLGE that would let you play as Pikachu or Eevee (dialogues and Moves still remains the same as Eevee)
 
