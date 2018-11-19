@@ -49,7 +49,7 @@ These are the lovely people (Who want to be linked,) who are currently, (or prev
 
 FTP Issue:
 ```sh
-$ It would seem that if you are wanting to stay up to date via using FTP, you might (and probably should) reboot your switch after downloading a new version. (thanks DazedandRemoved)
+$ It would seem that if you are wanting to stay up to date via using FTP, you might (and probably should) reboot your switch after downloading a new version. (thanks @DazedandRemoved)
 ```
 
 SX OS Cheat Activation Issue:
