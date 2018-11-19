@@ -32,7 +32,7 @@ $ (11/15/2018) Initial Upload.
 
 ### Credits
 
-These are the lovely people (Who want to be linked,) who are currently, (or previously) worked on making codes.
+These are the lovely people (Who want to be linked,) who are currently, (or previously) worked on making these codes.
 (More Credits will be posted when asked to do so.)
 
 | Author | Social Link |
